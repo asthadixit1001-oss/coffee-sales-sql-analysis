@@ -73,9 +73,9 @@ coffee sales data.sql → Contains all SQL queries and analysis
 ---
 
 ### 🏆 Top Selling Products
-![Top Products](product-analysis.png)
+![Top Products](productanalysis.png)
 
 ---
 
 ### 🌍 Average Sales per City
-![City Analysis](city-analysis.png)
+![City Analysis](cityanalysis.png)
