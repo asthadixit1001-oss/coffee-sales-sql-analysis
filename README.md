@@ -64,3 +64,18 @@ Use customer behavior data for cross-selling strategies
 📂 Project Files
 
 coffee sales data.sql → Contains all SQL queries and analysis
+
+## 📷 SQL Query Outputs  
+
+### 💰 Total Revenue (Q4 2023)
+![Total Revenue](revenue.png)
+
+---
+
+### 🏆 Top Selling Products
+![Top Products](product-analysis.png)
+
+---
+
+### 🌍 Average Sales per City
+![City Analysis](city-analysis.png)
